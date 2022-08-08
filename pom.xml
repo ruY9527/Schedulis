@@ -29,9 +29,11 @@
         <schedulis.version>0.7.0</schedulis.version>
         <assertj.version>3.8.0</assertj.version>
         <awaitility.version>3.0.0</awaitility.version>
-        <hadoop.version>2.7.2</hadoop.version>
+        <!--<hadoop.version>2.7.2</hadoop.version>-->
+        <hadoop.version>3.1.1</hadoop.version>
         <codahale.metrics.core.version>3.0.2</codahale.metrics.core.version>
-        <hive.version>1.2.1</hive.version>
+        <!--<hive.version>1.2.1</hive.version>-->
+        <hive.version>3.1.2</hive.version>
         <commons.collections.version>3.2.2</commons.collections.version>
         <commons.collections4.version>4.1</commons.collections4.version>
         <commons.compress.version>1.20</commons.compress.version>
@@ -66,7 +68,8 @@
         <restli.version>1.15.7</restli.version>
         <quartz.version>2.2.1</quartz.version>
         <snakeyaml.version>1.18</snakeyaml.version>
-        <spark.version>1.6.1</spark.version>
+        <!--<spark.version>1.6.1</spark.version>-->
+        <spark.version>3.0.1</spark.version>
         <velocity.version>1.7</velocity.version>
         <velocity.tools.version>2.0</velocity.tools.version>
         <grizzly.version>3.0.0</grizzly.version>
